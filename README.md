@@ -9,8 +9,6 @@
 ## Мои навыки
 - Python
 - Git
-- c++
 
 ## Связаться со мной
-- inst:doli.ka0
-- dolika0ch
+- dolika0ch@gmail.com
